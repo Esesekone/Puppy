@@ -1,2 +1,2 @@
 # Puppy
-Practica
+Practica en carpeta comprimida
